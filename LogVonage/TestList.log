@@ -1,0 +1,5 @@
+INFO:root:TEST CASE: CHECK CONVERSATION NAME: PASS: Name test1 exists in the conversation list
+INFO:root:TEST CASE: CHECK CONVERSATION ID: PASS: ID CON-4f48ac0b-1567-4200-af22-3034cbd56600 exists in the conversation IDs list
+ERROR:root:TEST CASE: CREATE CONVERSATION: FAIL: Conversation creation failed The request failed because the conversation name already exists. Please provide a unique conversation name and try again.
+INFO:root:TEST CASE: UPDATE CONVERSATION: PASS: Conversation ID CON-2a213e18-703e-4bf9-bdb8-f795b1dd986a updated successfully
+INFO:root:TEST CASE: CHECK CONVERSATION NAME: PASS: Name updated_now exists in the conversation list
